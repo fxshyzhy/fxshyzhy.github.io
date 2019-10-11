@@ -6,10 +6,10 @@
 title: Fxshyzhy's BLOG
 subtitle:
 description:
-keywor
+keywor:
 author: fxshyzhy
 language: en
-timezone
+timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://fxshyzhy.github.io
@@ -76,7 +76,7 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
+deploy: 
   type: git
-  repository: git@github.com:fxshyzhy/fxshyzhy.github.io.git
+  repo: git@github.com:fxshyzhy/fxshyzhy.github.io.git
   branch: master

@@ -1,7 +1,3 @@
----
-title: Cynthia
-lang: zh-CN
-description: 页面的描述
----
+# Headline
 
-# Hello World
+> An awesome project.

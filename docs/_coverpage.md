@@ -1,6 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
 
 # Notes 
 
@@ -11,4 +10,4 @@
 - Multiple themes
 
 [查看更多](#headline)
-[关于作者](#about)
+[关于作者](about.md)
